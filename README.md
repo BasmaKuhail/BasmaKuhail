@@ -44,15 +44,7 @@ A healthcare application designed to deliver meaningful impact and improve user 
 
 - **Tech Stack**: React, Next.js, Tailwind CSS, Supabase, Spring Boot, PostgreSQL, MySQL
 - **Features**: [Add key features here]
-- **Repository**: [View Project](#)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BasmaKuhail&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BasmaKuhail&layout=compact&theme=default)
+- **Repository**: [View Project](https://github.com/BasmaKuhail/Shifaa)
 
 ---
 
