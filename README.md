@@ -26,7 +26,6 @@ I'm a **Frontend Developer** passionate about building beautiful, responsive, an
 ### Backend & Database
 - **Supabase** - Open-source Firebase alternative with PostgreSQL
 - **Spring Boot** - Building robust Java applications
-- **PostgreSQL** - Reliable relational database
 - **MySQL** - Robust relational database management
 - **SQL** - Database design and optimization
 
@@ -80,18 +79,5 @@ A healthcare application designed to deliver meaningful impact and improve user 
 - Share knowledge with the developer community
 - Continuously improve as a developer
 
----
-
-## 🤝 Let's Collaborate!
-
-I'm always interested in:
-- Web development projects and opportunities
-- Open-source contributions
-- Technical discussions and learning
-- Collaborating with fellow developers
 
 Feel free to reach out and connect! 👋
-
----
-
-**Last Updated**: June 2026
