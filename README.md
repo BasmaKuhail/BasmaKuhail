@@ -37,17 +37,6 @@ I'm a **Frontend Developer** passionate about building beautiful, responsive, an
 
 ---
 
-## 📌 Featured Projects
-
-### **Shifaa**
-A healthcare application designed to deliver meaningful impact and improve user experience in the medical field.
-
-- **Tech Stack**: React, Next.js, Tailwind CSS, Supabase, Spring Boot, PostgreSQL, MySQL
-- **Features**: [Add key features here]
-- **Repository**: [View Project](https://github.com/BasmaKuhail/Shifaa)
-
----
-
 ## 🌐 Connect With Me
 
 - **LinkedIn**: [Basma Kuhail](https://www.linkedin.com/in/basma-kuhail-55a77a1a3/)
