@@ -62,3 +62,15 @@ I'm a **Frontend Developer** passionate about building beautiful, responsive, an
 
 
 Feel free to reach out and connect! 👋
+
+---
+
+## 🐍 My Contributions
+
+A little snake making its way through my GitHub contributions.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BasmaKuhail/BasmaKuhail/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BasmaKuhail/BasmaKuhail/output/github-snake.svg" />
+  <img alt="Animated teal snake eating Basma Kuhail's GitHub contribution squares" src="https://raw.githubusercontent.com/BasmaKuhail/BasmaKuhail/output/github-snake.svg" width="100%" />
+</picture>
