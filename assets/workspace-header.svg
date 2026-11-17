@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Basma Kuhail — Frontend Developer</title>
+<desc id="desc">A teal developer workspace. Thoughtful interfaces. Purposeful code. React, Next.js, and TypeScript.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1000" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#102c31"/><stop offset="1" stop-color="#07191d"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#265054" stroke-opacity=".3"/></pattern>
+</defs>
+<rect width="1000" height="340" rx="18" fill="url(#bg)"/>
+<rect width="1000" height="340" rx="18" fill="url(#grid)"/>
+<path d="M0 48H1000" stroke="#315155"/>
+<circle cx="26" cy="25" r="5" fill="#4f97a5"/><circle cx="45" cy="25" r="5" fill="#76b7bd"/><circle cx="64" cy="25" r="5" fill="#b2dedb"/>
+<text x="88" y="30" font-family="monospace" font-size="12" fill="#b1cacd">basma / workspace</text>
+<text x="817" y="30" font-family="monospace" font-size="11" fill="#84c9c8">DESIGN + ENGINEERING</text>
+<text x="46" y="97" font-family="monospace" font-size="12" letter-spacing="3" fill="#78d5c8">FRONTEND DEVELOPER</text>
+<text x="42" y="157" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" letter-spacing="-2" fill="#f0fdfa">Basma Kuhail.</text>
+<text x="46" y="200" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d4e9e8">Thoughtful interfaces.</text>
+<text x="46" y="232" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d4e9e8">Purposeful code.</text>
+<rect x="46" y="272" width="294" height="30" rx="15" fill="#143b40" stroke="#35636a"/>
+<text x="64" y="292" font-family="monospace" font-size="12" fill="#b8e5df">React / Next.js / TypeScript</text>
+<rect x="625" y="86" width="329" height="216" rx="13" fill="#102a30" stroke="#35636a"/>
+<rect x="642" y="104" width="295" height="24" rx="5" fill="#1d4146"/>
+<circle cx="654" cy="116" r="3" fill="#76b7bd"/>
+<text x="666" y="120" font-family="monospace" font-size="9" fill="#c2dedd">interface.preview</text>
+<rect x="642" y="144" width="65" height="140" rx="6" fill="#15373d"/>
+<rect x="653" y="158" width="42" height="5" rx="2.5" fill="#64c9bb"/>
+<rect x="653" y="179" width="30" height="4" rx="2" fill="#537d81"/>
+<rect x="653" y="196" width="36" height="4" rx="2" fill="#537d81"/>
+<rect x="653" y="213" width="25" height="4" rx="2" fill="#537d81"/>
+<rect x="720" y="144" width="217" height="62" rx="7" fill="#1b454a"/>
+<rect x="734" y="158" width="101" height="6" rx="3" fill="#c8e9e3"/>
+<rect x="734" y="174" width="153" height="4" rx="2" fill="#7ea7a7"/>
+<rect x="734" y="187" width="65" height="7" rx="3.5" fill="#56bcad"/>
+<rect x="720" y="218" width="103" height="66" rx="7" fill="#173a40"/>
+<rect x="834" y="218" width="103" height="66" rx="7" fill="#173a40"/>
+<path d="M731 269L747 259L762 262L778 244L794 249L811 234" stroke="#71d6c4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="885" cy="251" r="20" stroke="#2d565c" stroke-width="7"/>
+<path d="M885 231A20 20 0 0 1 905 251" stroke="#71d6c4" stroke-width="7" stroke-linecap="round"/>
+</svg>
